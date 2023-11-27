@@ -1,0 +1,14 @@
+img {
+  max-width: 100%;
+}
+
+.breed-select {
+  visibility: hidden;
+}
+
+.loader {
+  display: none;
+}
+.error {
+  display: none;
+}
